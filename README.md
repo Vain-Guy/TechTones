@@ -1,4 +1,4 @@
-# 🧠 TECHTONES - DECODING PUBLIC SENTIMENT ON GOOGLE AND APPLE FROM TWITTER
+# TECHTONES - DECODING PUBLIC SENTIMENT ON GOOGLE AND APPLE FROM TWITTER
 
 ## OVERVIEW
 **TechTones** is a Natural Language Processing (NLP)-driven sentiment analysis project designed to decode public perception of **Apple** and **Google**, two of the world’s most influential technology companies.  
