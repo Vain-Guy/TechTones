@@ -5,3 +5,6 @@ xgboost
 numpy
 pydantic
 scikit-learn
+streamlit
+nltk
+pandas
