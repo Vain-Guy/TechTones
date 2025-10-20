@@ -1,3 +1,5 @@
+![Tweets](https://www.istockphoto.com/photo/social-media-marketing-digitally-generated-image-engagement-gm1466050714-498228911)
+
 # TECHTONES - DECODING PUBLIC SENTIMENT ON GOOGLE AND APPLE FROM TWITTER
 
 ## OVERVIEW
